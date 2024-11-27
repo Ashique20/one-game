@@ -1,0 +1,213 @@
+
+     [
+      {
+        "game": "CS_GO",
+        "teams": ["Complexity", " FaZe Clan"],
+        "date": "2024-07-20",
+        "time": "15:00",
+        "stream_link": "https://www.youtube.com/embed/8qrpVd3ivi8?si=kQcAwT_dF0FAyqq3"
+      },
+      {
+        "game": "CS_GO",
+        "teams": ["TEAM BRAZIL", "Team  WORLD"],
+        "date": "2024-07-21",
+        "time": "16:00",
+        "stream_link": "https://www.youtube.com/embed/jaOpOFms09M?si=q_nABzfTItUl-pw8"
+      },
+      {
+        "game": "CS_GO",
+        "teams": ["FaZe", "Virtus.pro"],
+        "date": "2024-07-22",
+        "time": "17:00",
+        "stream_link": "https://www.youtube.com/embed/9Ui72xA_92I?si=FB92FzmOH8NRD3cC"
+      },
+      {
+        "game": "CS_GO",
+        "teams": ["Metizport", "Endpoint"],
+        "date": "2024-07-23",
+        "time": "18:00",
+        "stream_link": "https://www.youtube.com/embed/CSvpcJBZyK0?si=jBUKPb-B85zJ5Mlg"
+      },
+      {
+        "game": "CS_GO",
+        "teams": ["NaVi", "Astralis"],
+        "date": "2024-07-24",
+        "time": "19:00",
+        "stream_link": "https://www.youtube.com/embed/BzYGXyro0DM?si=N7oDBm4LToYPu2EL"
+      },
+      {
+        "game": "Valorant",
+        "teams": ["G2 ESPORTS", "SENTENLES"],
+        "date": "2024-07-25",
+        "time": "15:00",
+        "stream_link": "https://www.youtube.com/embed/rp4oq2rTvA0?si=cbPc7eX_Rh9XCtNQ"
+      },
+      {
+        "game": "Valorant",
+        "teams": ["FURIA", "LEVIATAN ESPORTS"],
+        "date": "2024-07-26",
+        "time": "16:00",
+        "stream_link": "https://www.youtube.com/embed/AFX_uTNyZlU?si=jCQbm6wk-AczxI8u"
+      },
+      {
+        "game": "Valorant",
+        "teams": ["100 THIEVES", "LOUD"],
+        "date": "2024-07-27",
+        "time": "17:00",
+        "stream_link": "https://www.youtube.com/embed/JSOfBxctcag?si=yjCQ_4g0NMsq-62R"
+      },
+      {
+        "game": "Valorant",
+        "teams": ["CLOUD9", "KRU ESPORTS"],
+        "date": "2024-07-28",
+        "time": "18:00",
+        "stream_link": "https://www.youtube.com/embed/X8Tqzt9N7l8?si=nkRhmJdn57KDVRL7"
+      },
+      {
+        "game": "Valorant",
+        "teams": ["EVIL GENIUSIS", "MIBR"],
+        "date": "2024-07-29",
+        "time": "19:00",
+        "stream_link": "https://www.youtube.com/embed/GTwW7Dinqqw?si=EhoFvG2eAbgoGi5_"
+      },
+      {
+        "game": "Valorant",
+        "teams": ["G2 ESPORTS", "KRU ESPORTS"],
+        "date": "2024-07-30",
+        "time": "20:00",
+        "stream_link": "https://www.youtube.com/embed/zunw4jbHcg4?si=IxpvCzKXIpTjiDmb"
+      },
+      {
+        "game": "Valorant",
+        "teams": ["NRG", "KRU ESPORTS"],
+        "date": "2024-07-31",
+        "time": "21:00",
+        "stream_link": "https://www.youtube.com/embed/Sx0tzmLnyx0?si=fMYg82tGjzQztjHe"
+      },
+      {
+        "game": "Apex_Legends",
+        "teams": ["Group A", "Group B"],
+        "date": "2024-08-06",
+        "time": "20:00",
+        "stream_link": "https://www.youtube.com/embed/tSlhRvs1yU8?si=sq7LIhVTWLLMiT6y",
+        "league": "ALGS Year 4 Pro League"
+      },
+      {
+        "game": "Apex_Legends",
+        "teams": ["Group II", "Group JJ"],
+        "date": "2024-08-06",
+        "time": "20:00",
+        "stream_link": "https://www.youtube.com/embed/lG0kNrJkEyA?si=fQn185lH1KX3-QvA",
+        "league": "EMEA Pro League Split 1"
+      },
+   
+      {
+        "game": "Apex_Legends",
+        "teams": ["Group A", "Group B"],
+        "date": "2024-08-06",
+        "time": "20:00",
+        "stream_link": "https://www.youtube.com/embed/aXRd_Rj8sg4?si=1gpCcXBrpdzuHdmD",
+        "league": "Final Circles Split 2 Regional Finals"
+      },
+      {
+        "game": "Apex_Legends",
+        "teams": ["Group II", "Group JJ"],
+        "date": "2024-08-06",
+        "time": "20:00",
+        "stream_link": "https://www.youtube.com/embed/WgrC6PrvZeM?si=t2NEm5eO0OWj-Gy9",
+        "league": "ALGS Year 3 Championship"
+      },
+      {
+        "game": "Apex_Legends",
+        "teams": ["Group II", "Group JJ"],
+        "date": "2024-08-06",
+        "time": "20:00",
+        "stream_link": "https://www.youtube.com/embed/kugdndibs_4?si=NOudDmOvepU1ck-n",
+        "league": " NA Pro League Split 1 Match Day 3"
+      },
+      {
+        "game": "Apex_Legends",
+        "teams": ["Group II", "Group JJ"],
+        "date": "2024-08-06",
+        "time": "20:00",
+        "stream_link": "https://www.youtube.com/embed/hoi3pCj-FDk?si=1IgbP1n0Pu4676mr",
+        "league": "Championship Final Circles Day 1"
+      },
+      {
+        "game": "Apex_Legends",
+        "teams": ["Group II", "Group JJ"],
+        "date": "2024-08-06",
+        "time": "20:00",
+        "stream_link": "https://www.youtube.com/embed/vkRVnTtkqXk?si=46NiRuaUg38KZQdZ",
+        "league": " EMEA/NA Pro League Split 1 Match Day 2 "
+      },
+      {
+        "game": "League_of_Legends",
+        "teams": ["T1", "DRX"],
+        "date": "2024-08-09",
+        "time": "15:00",
+        "stream_link": "https://www.youtube.com/embed/t7R6KDE0ejs?si=1qk_jUIJgDe-8BBS"
+      },
+      {
+        "game": "League_of_Legends",
+        "teams": ["WBG", "T1"],
+        "date": "2024-08-10",
+        "time": "16:00",
+        "stream_link": "https://www.youtube.com/embed/S_5vlPXLCRc?si=dYEIV4r2Ut3y1UFx"
+      },
+      {
+        "game": "League_of_Legends",
+        "teams": ["G2", "T1"],
+        "date": "2024-08-11",
+        "time": "17:00",
+        "stream_link": "https://www.youtube.com/embed/f95Cd8_9sgE?si=HJUlajrx9UcnSlSW"
+      },
+      {
+        "game": "League_of_Legends",
+        "teams": ["TES", "T1"],
+        "date": "2024-08-12",
+        "time": "18:00",
+        "stream_link": "https://www.youtube.com/embed/UJUQne3TA7M?si=byywiQFQeVSSt7ag"
+      },
+      {
+        "game": "League_of_Legends",
+        "teams": ["BRO", "T1"],
+        "date": "2024-08-13",
+        "time": "19:00",
+        "stream_link": "https://www.youtube.com/embed/h7pSnmnB_00?si=8wsv8x3JCkginnyg"
+      },
+      {
+        "game": "Fortnite",
+        "teams": "100 players",
+        "date": "2024-08-14",
+        "time": "15:00",
+        "stream_link": "https://www.youtube.com/embed/EXuqhgghPuA?si=L-jKxCs9CxEzhP8l",
+        "league": "Fortnite World Cup Solo Finals - Full Match (Bugha)"
+      },
+      {
+        "game": "Fortnite",
+        "teams": "100 players",
+        "date": "2024-08-15",
+        "time": "16:00",
+        "stream_link": "https://www.youtube.com/embed/lrsreYzj1Zo?si=eWbQBzklbYpK3utR",
+        "league": "Tfue CLUTCHES $1,500,000 Fortnite Tournament!"
+      },
+      {
+        "game": "Fortnite",
+        "teams": "100 players",
+        "date": "2024-08-16",
+        "time": "17:00",
+        "stream_link": "https://www.youtube.com/embed/i57XvooIEFw?si=JjnboMdEB463Lppi",
+        "league": "Final Storm"
+      },
+      {
+        "game": "Fortnite",
+        "teams": "100 players",
+        "date": "2024-08-17",
+        "time": "18:00",
+        "stream_link": "https://www.youtube.com/embed/GWt2pv8IqKA?si=oEdVQSmSkYihtwHQ",
+        "league": " NA Pro League Split 1 Match Day 3"
+      }
+    ]
+
+  

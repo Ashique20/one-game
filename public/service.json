@@ -1,0 +1,55 @@
+[
+    {
+        "id":"1",
+        "name":"Valorant",
+        "img":"https://us.123rf.com/450wm/hardqor4ik/hardqor4ik2007/hardqor4ik200700094/152226775-valorant-game-logo-symbol-isolated-on-white-background-vector-eps-10.jpg?ver=6",
+        "description":"Valorant is a team-based first-person tactical hero shooter set in the near future. Players play as one of a set of Agents, characters based on several countries and cultures around the world. In the main game mode, players are assigned to either the attacking or defending team with each team having five players on it.",
+        
+        "price":"60$ "
+
+    },
+    {
+        "id":"2",
+        "name":"Assassins Creed ",
+        "img":"https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/30dd8syYR9JAPhV759qTQe/66e1f4978d8a6ff11201bc1c6dd7b7f9/acm-boxshot.jpg?imwidth=360",
+       "description":"Assassin's Creed is an action-adventure game, set in an open-world environment, which is played from a third-person view in which the player primarily assumes the role of Altaïr, as experienced by protagonist Desmond Miles.",
+        "price":"70$ "
+
+    },
+    {
+        "id":"3",
+        "name":"The Last of Us",
+        "img":"https://m.media-amazon.com/images/M/MV5BZGUzYTI3M2EtZmM0Yy00NGUyLWI4ODEtN2Q3ZGJlYzhhZjU3XkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg",
+        "description":"After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope. Pedro Pascal The Mandalorian, Wonder Woman 1984) and Bella Ramsey (HBO's His Dark Materials and Game of Thrones) star as Joel and Ellie",
+      
+        "price":"60$ "
+
+    },
+    {
+        "id":"4",
+        "name":"Red Dead",
+        "img":"https://m.media-amazon.com/images/I/81YdZRdE1BL._AC_UF1000,1000_QL80_.jpg",
+        "description":"After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive.",
+        
+        "price":"50$ "
+
+    },
+    {
+        "id":"5",
+        "name":"Gta V",
+        "img":"https://m.media-amazon.com/images/I/81kAitW5qAL._AC_UF1000,1000_QL80_.jpg",
+        "description":"Grand Theft Auto V is an action-adventure game played from either a third-person or first-person perspective. Players complete missions—linear scenarios with set objectives—to progress through the story. Outside of the missions, players may freely roam the open world.",
+     
+        "price":"10$"
+
+    },
+    {
+        "id":"6",
+        "name":"Cyber Punk",
+        "img":"https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Cyberpunk_2077_box_art.jpg/220px-Cyberpunk_2077_box_art.jpg",
+        "description":"In science fiction circles, cyberpunk is a genre that often features counter cultural antiheroes trapped in a dehumanizing high-tech future. Its roots extend back to the technical fiction of the 1940s and '50s, but it was years before it matured.",
+        
+        "price":"15$ "
+
+    }
+]

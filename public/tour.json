@@ -1,0 +1,140 @@
+[
+  {
+    "_id": "1",
+    "game": "Pubg",
+    "image": "pubg_image_url",
+    "bg_image": "https://c.wallhere.com/photos/82/e2/pubg_mobile_Gaming_Series_weapon_PC_gaming_video_games_machine_gun-2235526.jpg!d",
+    "tournaments": [
+      {
+        "tournament_id": 1,
+        "tournament_name": "PUBG Global Championship",
+        "tournament_image": "pubg_global_championship_image_url"
+      },
+      {
+        "tournament_id": 2,
+        "tournament_name": "PUBG Continental Series",
+        "tournament_image": "pubg_continental_series_image_url"
+      },
+      {
+        "tournament_id": 3,
+        "tournament_name": "PUBG Nations Cup",
+        "tournament_image": "pubg_nations_cup_image_url"
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "game": "Valorant",
+    "image": "valorant_image_url",
+    "bg_image": "https://i.pinimg.com/originals/1d/46/27/1d4627f8b0a294c5e98e87f6cdbeaa8d.jpg",
+    "tournaments": [
+      {
+        "tournament_id": 4,
+        "tournament_name": "Valorant Champions",
+        "tournament_image": "valorant_champions_image_url"
+      },
+      {
+        "tournament_id": 5,
+        "tournament_name": "Valorant Masters",
+        "tournament_image": "valorant_masters_image_url"
+      },
+      {
+        "tournament_id": 6,
+        "tournament_name": "Valorant Challengers",
+        "tournament_image": "valorant_challengers_image_url"
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "game": "Apex_Legends",
+    "image": "apex_legends_image_url",
+    "bg_image": "https://wallpapers.com/images/featured/apex-legends-1uyhj1h7a5x9zs2w.jpg",
+    "tournaments": [
+      {
+        "tournament_id": 7,
+        "tournament_name": "Apex Legends Global Series",
+        "tournament_image": "apex_global_series_image_url"
+      },
+      {
+        "tournament_id": 8,
+        "tournament_name": "Apex Legends Preseason Invitational",
+        "tournament_image": "apex_preseason_invitational_image_url"
+      },
+      {
+        "tournament_id": 9,
+        "tournament_name": "Apex Legends Pro League",
+        "tournament_image": "apex_pro_league_image_url"
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "game": "League_of_Legends",
+    "image": "league_of_legends_image_url",
+    "bg_image": "https://wallpaper.dog/large/20470481.jpg",
+    "tournaments": [
+      {
+        "tournament_id": 10,
+        "tournament_name": "League of Legends World Championship",
+        "tournament_image": "lol_world_championship_image_url"
+      },
+      {
+        "tournament_id": 11,
+        "tournament_name": "Mid-Season Invitational",
+        "tournament_image": "mid_season_invitational_image_url"
+      },
+      {
+        "tournament_id": 12,
+        "tournament_name": "League of Legends All-Star",
+        "tournament_image": "lol_all_star_image_url"
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "game": "FortNite",
+    "image": "fortnite_image_url",
+    "bg_image": "https://wallpapers.com/images/featured/fortnite-background-34h5tua0czqu7u9t.jpg",
+    "tournaments": [
+      {
+        "tournament_id": 13,
+        "tournament_name": "Fortnite World Cup",
+        "tournament_image": "fortnite_world_cup_image_url"
+      },
+      {
+        "tournament_id": 14,
+        "tournament_name": "Fortnite Champion Series",
+        "tournament_image": "fortnite_champion_series_image_url"
+      },
+      {
+        "tournament_id": 15,
+        "tournament_name": "Fortnite Winter Royale",
+        "tournament_image": "fortnite_winter_royale_image_url"
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "game": "Cs_Go",
+    "image": "cs_go_image_url",
+    "bg_image": "https://wallpapers.com/images/hd/counter-strike-global-offensive-desktop-gvy020lt6pjvnze8.jpg",
+    "tournaments": [
+      {
+        "tournament_id": 16,
+        "tournament_name": "CS:GO Major Championship",
+        "tournament_image": "cs_go_major_championship_image_url"
+      },
+      {
+        "tournament_id": 17,
+        "tournament_name": "BLAST Premier",
+        "tournament_image": "blast_premier_image_url"
+      },
+      {
+        "tournament_id": 18,
+        "tournament_name": "ESL Pro League",
+        "tournament_image": "esl_pro_league_image_url"
+      }
+    ]
+  }
+]
